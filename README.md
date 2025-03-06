@@ -6,8 +6,9 @@ This plugin sends a Host Alerts webhook with the host code whenever someone logs
 
 ### Installation
 
-1. Upload the plugin folder to your /wp-content/plugins/ folder.
-2. Go to the **Plugins** page and activate the plugin.
+1. Download the [plugin.zip](https://github.com/fellowgeek/host-alerts-wordpress-plugin/blob/main/dist/plugin.zip) from the dist folder
+2. Upload the plugin folder to your /wp-content/plugins/ folder.
+3. Go to the **Plugins** page and activate the plugin.
 
 ### How do I use this plugin? 
 
