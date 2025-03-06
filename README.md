@@ -1,5 +1,7 @@
 # Wordpress Plugin for Host Alerts iOS App
 
+![logo](logo.png)
+
 ### Description
 
 This plugin sends a Host Alerts webhook with the host code whenever someone logs into the WordPress admin dashboard.
