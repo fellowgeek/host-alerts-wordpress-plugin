@@ -1,5 +1,13 @@
-# host-alerts-wordpress-plugin
-Wordpress Plugin for Host Alerts iOS App
+=== Host Alerts ===
+Contributors: Erfan Reed
+Tags: security, canary, trigger, login
+Requires at least: 6.0
+Tested up to: 6.7
+Stable tag: 1.0
+License: MIT
+License URI: https://github.com/fellowgeek/host-alerts-wordpress-plugin/blob/main/LICENSE
+
+Host Alerts app WordPress plugin.
 
 == Description ==
 
@@ -22,3 +30,7 @@ This plugin sends a Host Alerts webhook with the host code whenever someone logs
 = How to uninstall the plugin? =
 
 Simply deactivate and delete the plugin.
+
+== Changelog ==
+= 1.0 =
+* Plugin released.
